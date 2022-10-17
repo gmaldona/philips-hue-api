@@ -1,0 +1,6 @@
+.env
+server-conf.yml
+.DS_Store
+
+.idea/
+.vscode/
